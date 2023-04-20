@@ -15,6 +15,5 @@ a very simple language, and I was able to write the code in a few seconds.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Python](https://www.python.org/)
